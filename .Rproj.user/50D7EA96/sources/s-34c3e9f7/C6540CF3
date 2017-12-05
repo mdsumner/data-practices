@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512429233037.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C6540CF3",
+    "lastKnownWriteTime" : 1512435143,
+    "last_content_update" : 1512435143508,
+    "path" : "~/Git/data-practices/data-practices.Rmd",
+    "project_path" : "data-practices.Rmd",
+    "properties" : {
+        "cursorPosition" : "89,0",
+        "scrollLine" : "65",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

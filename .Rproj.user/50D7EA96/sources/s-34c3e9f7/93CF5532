@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512435249515.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3099292279",
+    "id" : "93CF5532",
+    "lastKnownWriteTime" : 1512435427,
+    "last_content_update" : 1512435427279,
+    "path" : "~/Git/data-practices/raadtools-demo.R",
+    "project_path" : "raadtools-demo.R",
+    "properties" : {
+        "cursorPosition" : "4,12",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

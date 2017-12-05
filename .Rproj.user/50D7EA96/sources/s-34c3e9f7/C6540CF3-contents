@@ -1,0 +1,94 @@
+---
+title: "Data, Programming and IT Practices"
+author: "Michael Sumner, Southern Ocean Ecosystems Research Group AAD and ACE CRC"
+date: "`r format(Sys.Date())`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Data practices
+
+- how are we doing?
+- frustrations, gaps in capability
+- shared understanding of best work practices?
+- shared tools and data
+- contributing to better workflows, better tools
+
+## Outline
+
+- general approach
+- key resources
+- importance of projects and Github for collaboration
+- raadtools, a key shared tool for data access
+
+General theme: getting help, and being helpful, are acquired skills!
+
+## General approach
+
+We promote a shared toolkit approach: 
+
+- data repositories - sources and file collections of remote sensing, environmental data, model output
+- a software toolkit - common tools built around a data repository
+- project-based workflow 
+
+Getting started: 
+
+- what computer/s, and where is the data?
+- tools (data read, processing, version control, commmunications)
+- how to get help?
+
+*SOKI overview*
+
+## Key resources
+
+All involve collaborative community contributions
+
+- **soki.aq** The Southern Ocean Knowledge and Information wiki
+- **FREE books**: R for Data Science, R Packages, Advanced R
+- **SoftwareCarpentry.org** lessons on automation, programming, version control, and SQL for databases
+- ***Happy Git and GitHub for the useR***
+- **DATATAS.com** and other local user groups, online forums (twitter, stackoverflow)
+- **rOpenSci.org** community building software for transparent research practices
+
+*rOpenSci overview*
+
+
+## Projects and Github
+
+Examples of version control and content publishing using R projects: 
+
+http://soki.aq/display/SET/2.+Git+and+version+control
+
+## Shared tols
+
+The *raadtools* toolkit example. 
+
+
+## Importance of community contributions!
+ 
+Archiving software tools in the public domain is very important!
+
+- we are required to do this for data 
+- our tools and workflows are of direct interest
+- best way to archive, share and collaborate is with version-controlled projects
+- learning to organize a project to carefully separate internal / external is not obvious!
+
+When you find out stuff, consider where the knowledge lives:  can it be written into SOKI, can you share it with others at local meetings, is it good material in a Github hosted project?
+
+## Summary
+
+- useful discussion?
+- what else? Quaterly meetings?
+- see you on SOKI and Github :)
+
+soki.aq  Southern Ocean Knowledge and Information WIKI
+
+github.com/AustralianAntarcticDivision  AAD-based software and data projects
+
+DATATAS.com Local data science support group
+
+
+

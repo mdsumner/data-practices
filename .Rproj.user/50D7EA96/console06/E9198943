@@ -1,0 +1,3 @@
+]0;/perm_storage/home/mdsumner/Git/data-practices]0;mdsumner@thirtyonetwentyone: ~/Git/data-practices[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/data-practices[00m$ [K]0;mdsumner@thirtyonetwentyone: ~/Git/data-practices[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/data-practices[00m$ git init
+Initialized empty Git repository in /perm_storage/home/mdsumner/Git/data-practices/.git/
+]0;/perm_storage/home/mdsumner/Git/data-practices]0;mdsumner@thirtyonetwentyone: ~/Git/data-practices[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/data-practices[00m$ git add .
