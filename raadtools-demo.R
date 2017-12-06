@@ -2,11 +2,14 @@
 
 library(raadtools)
 
+
+?readsst
+
+?readice
+
+
+
 data(aurora)
-
-?readghrsst
-
-
-aurora$ghrsst <- extract(readghrsst, aurora)
+aurora$sst <- extract(readsst, aurora)
 
 

@@ -42,15 +42,23 @@ Getting started:
 
 *SOKI overview*
 
+## R: things have changed!
+
+- RStudio 
+- R projects managed via Git and hosted via Github
+- tidyverse.org
+- **FREE books**: R for Data Science, R Packages, Advanced R
+
+
 ## Key resources
 
 All involve collaborative community contributions
 
 - **soki.aq** The Southern Ocean Knowledge and Information wiki
-- **FREE books**: R for Data Science, R Packages, Advanced R
 - **SoftwareCarpentry.org** lessons on automation, programming, version control, and SQL for databases
 - ***Happy Git and GitHub for the useR***
 - **DATATAS.com** and other local user groups, online forums (twitter, stackoverflow)
+- **DASH** - *informal* Friday mornings in IMAS foyer (0915)
 - **rOpenSci.org** community building software for transparent research practices
 
 *rOpenSci overview*
@@ -62,10 +70,19 @@ Examples of version control and content publishing using R projects:
 
 http://soki.aq/display/SET/2.+Git+and+version+control
 
-## Shared tols
+## Shared tools
 
 The *raadtools* toolkit example. 
 
+The raadtools data system is a key workhorse for many common data sets and covers many commonly used data sources. 
+
+Examples of the use of raadtools are listed in the documentation articles at 
+[australianantarcticdivision.github.io/raadtools](australianantarcticdivision.github.io/raadtools)
+
+Available data sets are on the blueant readme: 
+
+https://github.com/AustralianAntarcticDivision/blueant#data-source-summary
+ 
 
 ## Importance of community contributions!
  
@@ -76,19 +93,19 @@ Archiving software tools in the public domain is very important!
 - best way to archive, share and collaborate is with version-controlled projects
 - learning to organize a project to carefully separate internal / external is not obvious!
 
-When you find out stuff, consider where the knowledge lives:  can it be written into SOKI, can you share it with others at local meetings, is it good material in a Github hosted project?
+Found out stuff? Consider where the knowledge lives:  put on SOKI? Share at local meetings? Report in Github issues?  Create your own project?
 
 ## Summary
 
 - useful discussion?
-- what else? Quaterly meetings?
+- what else? Quarterly meetings?
 - see you on SOKI and Github :)
 
-soki.aq  Southern Ocean Knowledge and Information WIKI
+**soki.aq**  Southern Ocean Knowledge and Information WIKI
 
-github.com/AustralianAntarcticDivision  AAD-based software and data projects
+**github.com/*AustralianAntarcticDivision***  AAD-based software and data projects
 
-DATATAS.com Local data science support group
+**DATATAS.com** Local data science support group
 
 
 
